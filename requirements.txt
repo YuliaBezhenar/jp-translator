@@ -1,0 +1,6 @@
+# PyTorch is installed by setup.bat (the right build depends on your GPU).
+liquid-audio
+transformers>=5.2.0
+accelerate
+sounddevice
+numpy
